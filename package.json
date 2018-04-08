@@ -1,7 +1,7 @@
 {
   "name": "lodash-core",
   "version": "0.8.0",
-  "description": "all functions of lodash in a single file of 72 KB instead of too many files whose total size is 1.5 MB",
+  "description": "all functions of lodash in a single file of 70 KB instead of too many files whose total size is 1.5 MB",
   "main": "distrib/lodash-core.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
