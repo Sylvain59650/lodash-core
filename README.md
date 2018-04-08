@@ -2,11 +2,14 @@
 
 <div style="display:inline">
 
-[![Build Status](https://travis-ci.org/Sylvain59650/lodash-core.png?branch=master)](https://travis-ci.org/Sylvain59650/lodash-core)
-![Libraries.io for GitHub](https://img.shields.io/david/Sylvain59650/lodash-core.svg)
-![](https://img.shields.io/bundlephobia/min/lodash-core.svg)
-![npm](https://img.shields.io/npm/l/lodash-core.svg)
-[![HitCount](http://hits.dwyl.com/Sylvain59650/lodash-core.svg)](http://hits.dwyl.com/Sylvain59650/lodash-core)
+[![build](https://travis-ci.org/Sylvain59650/lodash-core.png?branch=master)](https://travis-ci.org/Sylvain59650/lodash-core)
+![version](https://img.shields.io/npm/v/lodash-core.svg)
+![package](https://img.shields.io/github/package-json/v/Sylvain59650/lodash-core.svg)
+![dependencies](https://img.shields.io/david/Sylvain59650/lodash-core.svg)
+![minified](https://img.shields.io/bundlephobia/min/lodash-core.svg)
+
+![license](https://img.shields.io/npm/l/lodash-core.svg)
+[![hits](http://hits.dwyl.com/Sylvain59650/lodash-core.svg)](http://hits.dwyl.com/Sylvain59650/lodash-core)
 </div>
 
 
