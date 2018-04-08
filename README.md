@@ -3,7 +3,7 @@
 <div style="display:inline">
 
 [![Build Status](https://travis-ci.org/Sylvain59650/lodash-core.png?branch=master)](https://travis-ci.org/Sylvain59650/lodash-core)
-![Libraries.io for GitHub](https://img.shields.io/librariesio/github/Sylvain59650/lodash-core.svg?style=flat-square)
+![Libraries.io for GitHub](https://img.shields.io/david/Sylvain59650/lodash-core.svg)
 ![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/lodash-core.svg)
 ![npm](https://img.shields.io/npm/l/lodash-core.svg)
 [![HitCount](http://hits.dwyl.com/Sylvain59650/lodash-core.svg)](http://hits.dwyl.com/Sylvain59650/lodash-core)
