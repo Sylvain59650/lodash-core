@@ -12,6 +12,7 @@ gulp.task("lodash-core.min.js", () => {
     .pipe(concat("lodash-core.min.js"))
     .pipe(uglify())
     .pipe(gulp.dest("distrib"))
+    .pipe(gulp.dest("docs"))
 });
 
 gulp.task('default', gulp.series('lodash-core.min.js'));
