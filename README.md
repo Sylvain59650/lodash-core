@@ -3,10 +3,8 @@
 <div style="display:inline">
 
 [![build](https://travis-ci.org/Sylvain59650/lodash-core.png?branch=master)](https://travis-ci.org/Sylvain59650/lodash-core)
-
  <a target="_blank" title="version" href="https://www.npmjs.com/package/json-better-parser"><img src="https://img.shields.io/npm/v/lodash-core.svg" /></a>
     <a target="_blank" title="package" href="https://github.com/Sylvain59650/lodash-core"><img src="https://img.shields.io/github/package-json/v/Sylvain59650/lodash-core.svg" /></a>
-
 ![dependencies](https://img.shields.io/david/Sylvain59650/lodash-core.svg)
 ![minified](https://img.shields.io/bundlephobia/min/lodash-core.svg)
 
