@@ -41,7 +41,7 @@ Based on [Lodash 4.17.11](https://www.npmjs.com/package/lodash)
 <script src="node_modules/lodash-core/distrib/lodash-core.min.js"></script>
 ```
 
-<a href="">Availables functions</a>
+<a href="https://sylvain59650.github.io/lodash-core/lodash-core.spec.html">Availables functions</a>
 
 ## License
 MIT
