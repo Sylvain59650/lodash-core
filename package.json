@@ -1,6 +1,6 @@
 {
   "name": "lodash-core",
-  "version": "4.17.14",
+  "version": "4.17.15",
   "description": "all functions of lodash in a single file of 70 KB instead of too many files whose total size is 1.5 MB",
   "main": "distrib/lodash-core.min.js",
   "scripts": {
@@ -33,6 +33,6 @@
     "gulp-debug": "3.2.0",
     "gulp-uglify": "3.0.0",
     "gulp-watch": "^5.0.1",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.15"
   }
 }
