@@ -16,9 +16,9 @@
 all lodash functions in a single file of 69 KB instead of too many files whose total size is 1.5 MB.
 It's a deployment package. 
 
-Based on [Lodash 4.17.15](https://www.npmjs.com/package/lodash)
+Based on [Lodash 4.17.19](https://www.npmjs.com/package/lodash)
 
- [Documentation](https://lodash.com/docs/4.17.15)
+ [Documentation](https://lodash.com/docs/4.17.19)
 
 ## Installation
 
@@ -46,7 +46,7 @@ Based on [Lodash 4.17.15](https://www.npmjs.com/package/lodash)
 ## License
 MIT
 - Packaged by [Sylvain Longepée](https://www.npmjs.com/~sylvain59)
-- Based on [Lodash 4.17.15](https://github.com/lodash/lodash/blob/master/LICENSE)
+- Based on [Lodash 4.17.19](https://github.com/lodash/lodash/blob/master/LICENSE)
 - Copyright JS Foundation and other contributors <https://js.foundation/>
 - Based on Underscore.js 1.8.3 , copyright Jeremy Ashkenas <http://underscorejs.org/LICENSE>,
 - DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
